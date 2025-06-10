@@ -66,7 +66,7 @@ python face_detect.py
 
 Here’s a sample detection result:
 
-![Results](results.png)
+![Results](result.png)
 
 ## 📄 License
 
